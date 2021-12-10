@@ -1,17 +1,16 @@
 body { 
   font-family: sans-serif;
   color: #505962;
-  scroll-behavior: smooth;
 }
 .navbar {
   text-transform: uppercase;
-  background-color: #505962;
+  background-color: #126782;
 }
 .navbar-brand img {
   height: 100px;
 }
 .home-inner {
-  background-image: url('images/landing-2.jpeg');
+  background-image: url('/images/landing-2.jpeg');
   filter: brightness(0.5);
 }
 .caption {
@@ -58,7 +57,7 @@ img.imagessection {
   margin: 2rem;
 }
 div#contact {
-  background: #505962;
+  background: #126782;
   padding: 1rem 2rem 3rem;
 }
 .footer .row {
